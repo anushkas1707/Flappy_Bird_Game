@@ -1,4 +1,4 @@
-You need to install the below modules to run the code :
+We need to install the below modules to run the code :
 pygame
 math
 sys
